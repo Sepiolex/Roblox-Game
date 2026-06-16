@@ -1,0 +1,16 @@
+#this is if statement in lua
+
+local x = 10
+if x > 5 then
+    print("x is greater than 5")
+end
+
+local y = 10
+if y > 5 then
+    print("y is greater than 5")
+end
+
+local z = 10
+if z > 5 then
+    print("z is greater than 5")
+end 

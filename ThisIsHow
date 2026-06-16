@@ -1,0 +1,16 @@
+#this is how you code in Lua 
+local function main()   --this is a function that will be called when the script is run
+    print("Hello, World!")
+end
+
+main() --this is how you call a function
+
+--this is a comment
+
+--this is a variable
+local x = 10
+print(x)
+
+--this is a loop
+for i = 1, 10 do
+    print(i)    
