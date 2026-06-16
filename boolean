@@ -1,0 +1,35 @@
+#this is boolean
+    
+    #true or false
+    #true = 1
+    #false = 0
+    #true and false = false
+    #true or false = true
+    #true and true = true
+    #false and false = false
+    #true or true = true
+    #false or false = false 
+
+    #example
+    a = true
+    b = false
+    c = true
+    d = false
+    e = true
+    f = false
+    g = true
+    h = false
+    i = true
+    
+
+
+
+
+
+
+
+
+
+
+
+
